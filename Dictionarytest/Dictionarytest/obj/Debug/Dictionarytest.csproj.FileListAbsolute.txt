@@ -1,0 +1,7 @@
+C:\Users\jbrowning\source\repos\Dictionarytest\Dictionarytest\bin\Debug\Dictionarytest.exe.config
+C:\Users\jbrowning\source\repos\Dictionarytest\Dictionarytest\bin\Debug\Dictionarytest.exe
+C:\Users\jbrowning\source\repos\Dictionarytest\Dictionarytest\bin\Debug\Dictionarytest.pdb
+C:\Users\jbrowning\source\repos\Dictionarytest\Dictionarytest\obj\Debug\Dictionarytest.csprojAssemblyReference.cache
+C:\Users\jbrowning\source\repos\Dictionarytest\Dictionarytest\obj\Debug\Dictionarytest.csproj.CoreCompileInputs.cache
+C:\Users\jbrowning\source\repos\Dictionarytest\Dictionarytest\obj\Debug\Dictionarytest.exe
+C:\Users\jbrowning\source\repos\Dictionarytest\Dictionarytest\obj\Debug\Dictionarytest.pdb
