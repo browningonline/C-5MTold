@@ -33,6 +33,7 @@ namespace Dictionarytest
         {
             var roundedPressureAltitude_ft = (pressureAltitude_ft / 1000) * 1000;
             var key = new MCLLookup(roundedPressureAltitude_ft, temperature_degC);
+            
             if (_lookup.ContainsKey(key))
             {
                 return _lookup[key];
